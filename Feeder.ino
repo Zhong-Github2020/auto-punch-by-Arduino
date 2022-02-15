@@ -1,5 +1,4 @@
 #include <Servo.h>
-#define DATAIN 0
 Servo servo1; //define object
 
 void setup()
